@@ -1,6 +1,6 @@
 # ✈️ Karachi National Airport Seat Reservation System (Python)
 
-This project is special to me — it was my **first Python project**, and it holds a close place in my journey as a developer. What started as an experiment with basic programming concepts turned into a complete system where I combined **logic, creativity, and problem-solving** to simulate a real-world flight seat reservation experience.
+This project is special to me it was my **first Python project**, and it holds a close place in my journey as a developer. What started as an experiment with basic programming concepts turned into a complete system where I combined **logic, creativity, and problem-solving** to simulate a real-world flight seat reservation experience.
 
 ## 🌟 Project Overview
 
@@ -39,8 +39,8 @@ It’s not just a project — it was the first time I felt the power of programm
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/flight-reservation-system.git
-   cd flight-reservation-system
+   git clone https://github.com/goravmeghani/Karachi-National-Airport-Seat-Reservation-System
+   cd Karachi-National-Airport-Seat-Reservation-System
    ```
 2. Make sure you have **Python 3.9+** installed.
 3. Run the project:
@@ -48,10 +48,6 @@ It’s not just a project — it was the first time I felt the power of programm
    ```bash
    python main.py
    ```
-
-## 📷 Screenshots (Optional)
-
-*(Add CLI screenshots here once you run the project, e.g. seat booking interface, login screen, receipt output.)*
 
 ## 💡 Lessons & Reflections
 
